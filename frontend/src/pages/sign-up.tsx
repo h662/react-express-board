@@ -57,9 +57,9 @@ const SignUp = () => {
             Already have an account?
             <Link
               className="ml-1 text-blue-500 active:text-blue-700"
-              to="/log-in"
+              to="/sign-in"
             >
-              Log In
+              Sign In
             </Link>
           </div>
         </div>
